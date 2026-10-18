@@ -1,0 +1,43 @@
+[
+  {
+    "name": "🇦🇴 MOVICEL VIP 🔴",
+    "description": "CONECTA GRÁTIS COM PRAZO NO CHIP",
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "sorter": 2,
+    "status": "ACTIVE",
+    "auth": {
+      "username": "genisvpn",
+      "password": "genisvpn",
+      "v2ray_uuid": null
+    },
+    "category": {
+      "name": "SERVIDOR RÁPIDO VIP🔑",
+      "color": "#FF00FF26",
+      "sorter": 1
+    },
+    "config_openvpn": null,
+    "config_payload": {
+      "payload": "GET / HTTP/1.1[crlf]Host: directo.elver.online[crlf]Upgrade: websocket[crlf][crlf]",
+      "sni": "directo.elver.online"
+    },
+    "config_v2ray": null,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "icon": "https://i.ibb.co/Z4K61Xv/movicel.png",
+    "proxy": {
+      "host": "104.16.251.55",
+      "port": 443
+    },
+    "server": {
+      "host": "directo.elver.online",
+      "port": 443
+    },
+    "udp_ports": [
+      7300
+    ],
+    "url_check_user": ""
+  }
+]
